@@ -1,0 +1,17 @@
+# Python environment
+env/
+venv/
+
+# Dataset folders
+seg_train/
+seg_test/
+seg_pred/
+
+# System files
+*.pyc
+__pycache__/
+.DS_Store
+
+# VSCode/PyCharm
+.vscode/
+.idea/
